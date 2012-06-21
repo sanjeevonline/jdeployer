@@ -1,0 +1,1 @@
+Simple JavaEE6 app to test deployment with Capistrano
