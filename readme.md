@@ -12,6 +12,8 @@ Simple JavaEE6 app to test deployment with Capistrano
 
 __Note__
 
+You can use this project as a sample Java project to start things off
+
 So far only the Maven build and war copy to Tomcat works.
 
 We need to fix starting and stopping Tomcat from Capistrano.
